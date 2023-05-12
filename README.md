@@ -5,6 +5,7 @@
 -💾 Graduated from Yandex Practicum in a team of experienced mentors and web developers.
 -📓 I practice through pet projects and tasks on codewars
 -💬 Ask me about something by following the links on social networks⬇️
+
 ## 🌐 Socials:
 [<img src='https://user-images.githubusercontent.com/99301610/182012877-ee2825bc-4a3a-4bca-bd33-8ff20b1698e2.png' alt='telegram' height='40'>](https://t.me/dreusus)  
 [<img src='https://user-images.githubusercontent.com/99301610/182012820-788bc501-c5a1-4c18-85e1-f5beda0c1845.png' alt='instagram' height='40'>](https://www.instagram.com/dreusus) 
