@@ -1,4 +1,4 @@
-### Hi 👋, I'm Andrey 👋
+### Hi 👋, I'm Andrey 
 #### frontend developer from Saint-Petersburg 
 
 ![Profile views](https://gpvc.arturio.dev/Dreusus)  
