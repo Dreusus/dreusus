@@ -1,17 +1,61 @@
-### Hi 👋, I'm Andrey 
-#### frontend developer from Saint-Petersburg 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=30&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=50&descAlign=63)
+
+<p>
+  <h1 align="center">Hi!My name is Andrey!
+    </a> 
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
+  </h1>
+  <p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1384F7&center=true&width=435&lines=%D0%AF+front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" /></a>
+  </p>
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/Dreusus)  
--💾 Graduated from Yandex Practicum in a team of experienced mentors and web developers.  
--📓 I practice through pet projects and tasks on codewars  
--💬 Ask me about something by following the links on social networks⬇️  
+### ***О себе:***
+* 👨‍💻 Стараюсь писать чистый, читабельный код
+  
+* 😎 Хочу работать в команде опытных профессионалов
+  
+* 🚀 Осваиваю новые технологии
+  
+* 🔥 Хочу работать в высоконагруженных проектах
+  
+* ⏱ Учусь анализировать сложность алгоритмов / улучшать производительность 
 
-## 🌐 Socials:
-[<img src='https://user-images.githubusercontent.com/99301610/182012877-ee2825bc-4a3a-4bca-bd33-8ff20b1698e2.png' alt='telegram' height='40'>](https://t.me/dreusus)  [<img src='https://user-images.githubusercontent.com/99301610/182012820-788bc501-c5a1-4c18-85e1-f5beda0c1845.png' alt='instagram' height='40'>](https://www.instagram.com/dreusus) 
+### 🔨 ***Используемые языки и технологии:***
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## 🏗️ Languages and Tools:
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+ ----
+### 🏆 ***Моя статистика:***
+<img width="99.5%" src="https://www.codewars.com/users/Dreusus/badges/large?theme=light">
 
-___________
-![image](https://www.codewars.com/users/Dreusus/badges/large?theme=light)
+<img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tinaevnk&theme=github_dark">
+
+<div style="display: flex; justify-content: space-between; width: 100%">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tinaevnk&theme=github_dark"> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tinaevnk&theme=github_dark">
+</div>
+
+<div style="display: flex; justify-content: space-between; width: 100%">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tinaevnk&theme=github_dark"> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tinaevnk&theme=github_dark&utcOffset=8">
+</div>
+
+### ***Контакты:***
+### 📧 Почта: pitak@dreusus.ru
+### 🌐 Telegram: [@tinaevnk](https://t.me/dreusus)
+
+
+
 
