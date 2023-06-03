@@ -1,5 +1,6 @@
 
 <h1 align="left">Hi there 👋, my name is Andrey!</h1>
+
 ## A few words about me 👨‍💻  
 
 I'm entry-level front-end developer doing my best to achieve a high level of mastership and eager to be a part of a crew, that develops meaningful web projects.  I'm well-versed in HTML5, СSS, JavaScript, and React, and do not stop yarn new.  With strong background in project management, IT sales, and customer relations.
