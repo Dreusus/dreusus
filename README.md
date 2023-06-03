@@ -1,26 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=30&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=50&descAlign=63)
 
-<p>
-  <h1 align="center">Всем привет! Меня зовут Андрей
-    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
-  </h1>
-  <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1384F7&center=true&width=435&lines=%D0%AF+front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" /></a>
-  </p>
+<h1 align="center">Всем привет! Меня зовут Андрей
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1384F7&center=true&width=435&lines=%D0%AF+front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" /></a>
 </p>
 
-### ***О себе:***
-* 👨‍💻 Стараюсь писать чистый, читабельный код
-  
-* 😎 Хочу работать в команде опытных профессионалов
-  
-* 🚀 Осваиваю новые технологии
-  
-* 🔥 Хочу работать в высоконагруженных проектах
-  
-* ⏱ Учусь анализировать сложность алгоритмов / улучшать производительность 
+### О себе:
 
-### 🔨 ***Используемые языки и технологии:***
+- 👨‍💻 Стараюсь писать чистый, читабельный код
+- 😎 Хочу работать в команде опытных профессионалов
+- 🚀 Осваиваю новые технологии
+- 🔥 Хочу работать в высоконагруженных проектах
+- ⏱ Учусь анализировать сложность алгоритмов / улучшать производительность
+
+### Используемые языки и технологии:
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
@@ -34,8 +31,10 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
- ----
-### 🏆 ***Моя статистика:***
+---
+
+### Моя статистика:
+
 <img width="99.5%" src="https://www.codewars.com/users/Dreusus/badges/large">
 
 <img width="99.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dreusus&theme=github_dark">
@@ -50,8 +49,8 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dreusus&theme=github_dark&utcOffset=8">
 </div>
 
-### ***Контакты:***
-### 📧 Почта: pitak@dreusus.ru
-### 🌐 Telegram: [@tinaevnk](https://t.me/dreusus)
+### Контакты:
+📧 Почта: pitak@dreusus.ru
+🌐 Telegram: [@dreusus](https://t.me/dreusus)
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
