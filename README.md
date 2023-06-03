@@ -1,8 +1,5 @@
 
 <h1 align="left">Hi there 👋, my name is Andrey!</h1>
-
-![Profile views](https://gpvc.arturio.dev/Dreusus) 
-
 ## A few words about me 👨‍💻  
 
 I'm entry-level front-end developer doing my best to achieve a high level of mastership and eager to be a part of a crew, that develops meaningful web projects.  I'm well-versed in HTML5, СSS, JavaScript, and React, and do not stop yarn new.  With strong background in project management, IT sales, and customer relations.
@@ -37,4 +34,5 @@ I'm entry-level front-end developer doing my best to achieve a high level of mas
 ## Some statistics🏆 
 
 [![codewars](https://www.codewars.com/users/Dreusus/badges/large?theme=light)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
