@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=30&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=50&descAlign=63)
-
 <h1 align="center">Всем привет! Меня зовут Андрей
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
 </h1>
